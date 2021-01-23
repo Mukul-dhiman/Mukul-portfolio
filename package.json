@@ -5,6 +5,7 @@
   "main": "index.js",
   "homepage": "https://Mukul-dhiman.github.io/Mukul-portfolio",
   "scripts": {
+    "start": "react-scripts start",
     "sass": "node-sass -w scss/ -o dist/css/ --recursive",
     "deploy": "gh-pages -d dist"
   },
